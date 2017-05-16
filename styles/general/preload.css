@@ -1,0 +1,9 @@
+.hero-slider div .slider-image {
+  background-image: url("../../assets/header/carousel-1.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  width: 1010px;
+  height: 575px; }
+
+/*# sourceMappingURL=preload.css.map */

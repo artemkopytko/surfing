@@ -1,0 +1,9 @@
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.cl-wht {
+  color: white; }
+
+/*# sourceMappingURL=variables.css.map */
